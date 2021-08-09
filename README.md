@@ -24,4 +24,6 @@
 
 ### 문제 풀이 양식
 
+[https://github.com/pandanon50/algoStudy/blob/main/solve_problem.md]
+
 ### 문제 푼 현황
